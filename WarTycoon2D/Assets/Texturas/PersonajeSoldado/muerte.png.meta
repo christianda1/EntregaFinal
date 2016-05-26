@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: d4c9538c84d269f4f906d7935c737509
+timeCreated: 1462827359
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: muerte_18
+    21300002: muerte_19
+    21300004: muerte_20
+    21300006: muerte_21
+    21300008: muerte_22
+    21300010: muerte_23
+    21300012: muerte_24
+    21300014: muerte_25
+    21300016: muerte_26
+    21300018: muerte_27
+    21300020: muerte_28
+    21300022: muerte_29
+    21300024: muerte_30
+    21300026: muerte_31
+    21300028: muerte_32
+    21300030: muerte_33
+    21300032: muerte_34
+    21300034: muerte_35
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: muerte_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 94
+        width: 44
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 38}
+        - {x: -22, y: 38}
+        - {x: -22, y: -12}
+        - {x: -18, y: -38}
+        - {x: 12, y: -38}
+        - {x: 17, y: -31}
+        - {x: 22, y: -19}
+        - {x: 22, y: 6}
+    - name: muerte_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 94
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 38.5}
+        - {x: -22, y: -22.5}
+        - {x: -19, y: -38.5}
+        - {x: 14, y: -38.5}
+        - {x: 22, y: -19.5}
+        - {x: 22, y: 26.5}
+        - {x: 21, y: 38.5}
+    - name: muerte_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 94
+        width: 45
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 38.5}
+        - {x: -22.5, y: -10.5}
+        - {x: -17.5, y: -38.5}
+        - {x: 22.5, y: -38.5}
+        - {x: 22.5, y: 38.5}
+    - name: muerte_21
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 94
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 39}
+        - {x: -17.5, y: 39}
+        - {x: -22.5, y: 33}
+        - {x: -22.5, y: 4}
+        - {x: -15.5, y: -39}
+        - {x: 17.5, y: -39}
+        - {x: 22.5, y: -13}
+        - {x: 22.5, y: 9}
+        - {x: 13.5, y: 32}
+    - name: muerte_22
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 94
+        width: 44
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 39}
+        - {x: -22, y: -34}
+        - {x: -21, y: -39}
+        - {x: 21, y: -39}
+        - {x: 22, y: -30}
+        - {x: 22, y: 28}
+        - {x: 16, y: 39}
+    - name: muerte_23
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 94
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5, y: 39}
+        - {x: -17.5, y: 39}
+        - {x: -22.5, y: 35}
+        - {x: -22.5, y: -10}
+        - {x: -17.5, y: -39}
+        - {x: 17.5, y: -39}
+        - {x: 22.5, y: -27}
+        - {x: 22.5, y: 4}
+        - {x: 11.5, y: 37}
+    - name: muerte_24
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 94
+        width: 45
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 38.5}
+        - {x: -22.5, y: 33.5}
+        - {x: -22.5, y: -2.5}
+        - {x: -16.5, y: -38.5}
+        - {x: 17.5, y: -38.5}
+        - {x: 22.5, y: -28.5}
+        - {x: 22.5, y: 20.5}
+        - {x: 8.5, y: 38.5}
+    - name: muerte_25
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 94
+        width: 45
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 38.5}
+        - {x: -22.5, y: -14.5}
+        - {x: -18.5, y: -38.5}
+        - {x: 22.5, y: -38.5}
+        - {x: 22.5, y: 38.5}
+    - name: muerte_26
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 94
+        width: 43
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 38}
+        - {x: -21.5, y: 33}
+        - {x: -21.5, y: -10}
+        - {x: -12.5, y: -38}
+        - {x: 21.5, y: -38}
+        - {x: 21.5, y: 38}
+    - name: muerte_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 37.5}
+        - {x: -21, y: -4.5}
+        - {x: -13, y: -37.5}
+        - {x: 16, y: -37.5}
+        - {x: 21, y: -28.5}
+        - {x: 21, y: 37.5}
+    - name: muerte_28
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 36
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 38.5}
+        - {x: -18, y: -37.5}
+        - {x: -17, y: -38.5}
+        - {x: 10, y: -38.5}
+        - {x: 16, y: -37.5}
+        - {x: 18, y: -22.5}
+        - {x: 18, y: 35.5}
+        - {x: 17, y: 38.5}
+    - name: muerte_29
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 40
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 38.5}
+        - {x: -20, y: 36.5}
+        - {x: -20, y: -38.5}
+        - {x: 20, y: -38.5}
+        - {x: 20, y: 38.5}
+    - name: muerte_30
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.5, y: -24}
+        - {x: -4.5, y: -35}
+        - {x: -3.5, y: -37}
+        - {x: 12.5, y: -37}
+        - {x: 23.5, y: -11}
+        - {x: 23.5, y: 10}
+        - {x: 17.5, y: 35}
+        - {x: 11.5, y: 37}
+        - {x: -22.5, y: 37}
+        - {x: -23.5, y: 36}
+        - {x: -23.5, y: -37}
+        - {x: -10.5, y: -37}
+        - {x: -9.5, y: -36}
+        - {x: -6.5, y: -29}
+        - {x: -3.5, y: -26}
+    - name: muerte_31
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 2
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 34}
+        - {x: -18.5, y: 1}
+        - {x: -3.5, y: -34}
+        - {x: 18.5, y: -34}
+        - {x: 18.5, y: 29}
+        - {x: 13.5, y: 34}
+    - name: muerte_32
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 33.5}
+        - {x: -17, y: 30.5}
+        - {x: -17, y: -7.5}
+        - {x: -2, y: -33.5}
+        - {x: 17, y: -33.5}
+        - {x: 17, y: 31.5}
+        - {x: 12, y: 33.5}
+    - name: muerte_33
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 3
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 33}
+        - {x: -17, y: -11}
+        - {x: -2, y: -33}
+        - {x: 17, y: -33}
+        - {x: 17, y: 33}
+    - name: muerte_34
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 33}
+        - {x: -17, y: -18}
+        - {x: -13, y: -30}
+        - {x: -2, y: -33}
+        - {x: 17, y: -33}
+        - {x: 17, y: 30}
+        - {x: 14, y: 33}
+    - name: muerte_35
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1
+        width: 34
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 33.5}
+        - {x: -17, y: 31.5}
+        - {x: -17, y: -9.5}
+        - {x: 1, y: -33.5}
+        - {x: 17, y: -33.5}
+        - {x: 17, y: 30.5}
+        - {x: 12, y: 33.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
